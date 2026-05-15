@@ -1,0 +1,30 @@
+{
+    "intExample": 5,
+    "strExample": "Hello!",
+    "boolExample": [
+        false,
+        false,
+        false,
+        false
+    ],
+    "idSave": 415,
+    "gold": 974386121,
+    "totalClicks": 78,
+    "currentLevel": 1,
+    "clicksForNextLevel": 800,
+    "goldPerClick": 752,
+    "goldPerSecond": 342.0,
+    "upgradeLevels": [
+        8,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        1,
+        8
+    ]
+}

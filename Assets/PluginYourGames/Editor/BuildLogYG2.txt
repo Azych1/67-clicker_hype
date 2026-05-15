@@ -1,0 +1,3 @@
+﻿Build path: C:/xampp/htdocs/Games/13
+Build number: 24
+PluginYG version: 2.007
